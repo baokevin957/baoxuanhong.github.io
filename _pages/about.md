@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently an undergraduate student majoring in Mathematics and Applied Mathematics at Ocean University of China. In 2027, I will join Huazhong University of Science and Technology to pursue a master's degree in Artificial Intelligence. My research interests include computer vision, multimedia, and machine learning. In the future, I will strive to complete more projects and produce high-quality papers.
 
-In my spare time, I enjoy swimming, hiking, TikTok and League of Legends: Wild Rift. I am a long-termist, always striving to become a better version of myself, and I hope to make progress together with you.
+In my spare time, I enjoy swimming, hiking, TikTok and League of Legends mobile. I am a long-termist, always striving to become a better version of myself, and I hope to make progress together with you.
 
 # 🔥 News
 - *2026.09*: &nbsp;🎉 I was admitted to the School of Artificial Intelligence and Automation at HUST for graduate studies.
