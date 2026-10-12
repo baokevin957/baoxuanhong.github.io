@@ -23,7 +23,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2026.09*: &nbsp;🎉 I was admitted to the School of Artificial Intelligence and Automation at Huazhong University of Science and Technology for graduate studies.
+- *2026.09*: &nbsp;🎉 I was admitted to the School of Artificial Intelligence and Automation at HUST for graduate studies.
 - *2026.09*: &nbsp;🎉 I will joine the National Key Laboratory of Multispectral Information Intelligent Processing Technology, HUST.
   
 # 📝 Publications 
