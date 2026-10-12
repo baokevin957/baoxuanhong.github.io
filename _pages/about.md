@@ -50,9 +50,5 @@ My research interest includes neural machine translation and computer vision. I 
 # 📖 Educations
 - *2023.08 - now*, B.S. in Mathematics and Applied Mathematics, Ocean University of China.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
 # 💻 Internships
 - *2025.03 - 2026.03*, I worked as a research assistant at the Shandong Key Laboratory of Intelligent Sensing Chips and System, under the supervision of [Hao Zhang](https://it.ouc.edu.cn/zh2_23890/main.htm).
