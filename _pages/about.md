@@ -27,7 +27,7 @@ In my spare time, I enjoy swimming, hiking, TikTok and League of Legends: Wild R
 - *2026.04*: &nbsp;🎉 One paper has been accepted by the journal Remote Sensing, which is my first high level publication.
 
 # 📝 Publications 
-[SemAlign3D: Multi-Dataset Point Cloud Segmentation with Learnable Class Prompts and KNN Multi-Scale Attention](https://doi.org/10.3390/rs18091284), **Xuanhong Bao**, Hao Zhang, <span class="publication-journal">Remote Sensing</span>
+- [SemAlign3D: Multi-Dataset Point Cloud Segmentation with Learnable Class Prompts and KNN Multi-Scale Attention](https://doi.org/10.3390/rs18091284), **Xuanhong Bao**, Hao Zhang, <span class="publication-journal">Remote Sensing</span>
 
 # 🎖 Honors and Awards
 - *2024.10*, Second-Class Comprehensive Scholarship, OUC.
