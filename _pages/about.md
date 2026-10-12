@@ -54,4 +54,6 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.10*, Second-Class Comprehensive Scholarship, OUC.
+- *2025.10*, Innovation and Entrepreneurship Scholarship, OUC.
+- *2026.10*, Second-Class Comprehensive Scholarship, OUC.
