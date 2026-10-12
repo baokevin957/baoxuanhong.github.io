@@ -43,8 +43,9 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.10*, Second-Class Comprehensive Scholarship, OUC.
+- *2025.10*, Innovation and Entrepreneurship Scholarship, OUC.
+- *2026.10*, Second-Class Comprehensive Scholarship, OUC.
 
 # 📖 Educations
 - *2023.08 - now*, B.S. in Mathematics and Applied Mathematics, Ocean University of China.
@@ -54,6 +55,4 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2024.10*, Second-Class Comprehensive Scholarship, OUC.
-- *2025.10*, Innovation and Entrepreneurship Scholarship, OUC.
-- *2026.10*, Second-Class Comprehensive Scholarship, OUC.
+- *2025.03 - 2026.03*, I worked as a research assistant at the Shandong Key Laboratory of Intelligent Sensing Chips and System, under the supervision of [Hao Zhang](https://it.ouc.edu.cn/zh2_23890/main.htm).
