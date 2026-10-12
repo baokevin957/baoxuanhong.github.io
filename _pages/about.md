@@ -25,6 +25,7 @@ In my spare time, I enjoy swimming, hiking, TikTok and League of Legends: Wild R
 - *2026.09*: &nbsp;🎉 I was admitted to the School of Artificial Intelligence and Automation at HUST for graduate studies.
 - *2026.09*: &nbsp;🎉 I will join the National Key Laboratory of Multispectral Information Intelligent Processing Technology, HUST.
 - *2026.04*: &nbsp;🎉 One paper has been accepted by the journal Remote Sensing, which is my first high level publication.
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
