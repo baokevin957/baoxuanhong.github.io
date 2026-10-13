@@ -30,9 +30,9 @@ In my spare time, I enjoy swimming, hiking, TikTok and League of Legends mobile.
 - [SemAlign3D: Multi-Dataset Point Cloud Segmentation with Learnable Class Prompts and KNN Multi-Scale Attention](https://doi.org/10.3390/rs18091284), **Xuanhong Bao**, Hao Zhang, <span class="publication-journal">Remote Sensing</span>
 
 # 🎖 Honors and Awards
-- *2024.10*, Second-Class Comprehensive Scholarship, OUC.
-- *2025.10*, Innovation and Entrepreneurship Scholarship, OUC.
-- *2026.10*, Second-Class Comprehensive Scholarship, OUC.
+- Excellent Student of Ocean University of China
+- Second-Class Comprehensive Scholarship, OUC.
+- Innovation and Entrepreneurship Scholarship, OUC.
 
 # 📖 Educations
 - *2023.08 - now*, B.S. in Mathematics and Applied Mathematics, Ocean University of China.
